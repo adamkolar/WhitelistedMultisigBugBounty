@@ -8,7 +8,7 @@
 
 [WhitelistedMultisig.sol](./contracts/WhitelistedMultisig.sol)
 
-## Report
+## Submission
 
 I've discovered an issue in the Whitelisted Multisig wallet code that allows for something I would call a hidden owner attack.
 The issue is contained to the "multiowned" contract and is caused by missing address duplicity check (necessity of which is implied in the addOwner function) in the constructor code. First I will describe the attack and then delve into how it works.
