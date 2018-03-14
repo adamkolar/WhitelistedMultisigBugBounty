@@ -1,4 +1,4 @@
-# Parity WhitelistedMultisig contract bug bounty
+# Consensys WhitelistedMultisig contract bug bounty
 
   * https://www.reddit.com/r/ethdev/comments/6qaxc1/bug_bounty_on_the_consensys_and_whitelisted/
   * Date: 2017-08-31
